@@ -33,4 +33,3 @@ Essa é uma API de filmes, desenvolvido utilizando TypeScript. A API é toda doc
 - Swagger
 - PostgreSQL
 
-<br>
