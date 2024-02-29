@@ -24,7 +24,7 @@ Essa é uma API de filmes, desenvolvido utilizando TypeScript. A API é toda doc
 <br>
 
 ## 5 - Visualização da tela inicial do projeto no celular
-<img src="./images/Celular1.PNG" alt="Image da tela inicial do projeto no celular">
+<img src="./images/Celular1.png" alt="Image da tela inicial do projeto no celular">
 <br><br>
 
 ## Tecnologias utilizadas 💻
